@@ -12,3 +12,5 @@
 1. 3d printed frame for robot
 1. 3d printed frame for remote
 1. some screws and bolts
+1. 2 driver wheels
+1. bal bearing for front/back wheel
