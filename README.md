@@ -1,10 +1,8 @@
 # Arduino
 ## Parts
 1. Joystick
-1. Ir LED
-1. Ir sensor
-1. 4x4 keypad
-1. I2C LCD
+1. 2 nRF24L01
+1. 4 buttons
 1. L293D (or other motor driver)
 1. 2 DC motoren
 1. 5V batteries
