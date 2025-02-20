@@ -1,6 +1,6 @@
 # Arduino
 ## Parts
-1. Joystick
+1. joystick
 1. 2x nRF24L01
 1. 4x button
 1. L293D (or other motor driver)
