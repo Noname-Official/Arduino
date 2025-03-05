@@ -12,3 +12,11 @@
 1. some screws and bolts
 1. 2x driver wheels
 1. bal bearing for front/back wheel
+
+## Protocol
+Bit(s)|description
+------|-----------
+0     |Left motor direction 0=forwards, 1=backwards
+1     |Right motor direction 0=forwards, 1=backwards
+8-15  |Left motor speed
+16-23 |Right motor speed
