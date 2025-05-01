@@ -8,6 +8,7 @@ Motor::Motor(int enablePin, int in1Pin, int in2Pin) : enable(enablePin), in1(in1
 
 void Motor::begin()
 {
+    // Initialize pins
     pinMode(this->enable, OUTPUT);
     digitalWrite(this->enable, LOW);
     pinMode(this->in1, OUTPUT);
